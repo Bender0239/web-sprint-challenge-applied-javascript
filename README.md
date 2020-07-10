@@ -27,15 +27,15 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. What is the DOM?
-
+    - Document Object Model, it is responsible for displaying content on a web page.
 2. What is an event?
-
+    - An event is any action by a user, click, drag etc.
 3. What is an event listener?
-
+    - An event listener waits for a specific event or group of events to execute a particular chunk of code.
 4. Why would we convert a NodeList into an Array?
-
+    - To use array methods on it. 
 5. What is a component?
-
+    - A tiny factory made of code that builds UI.
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
 ## Instructions
